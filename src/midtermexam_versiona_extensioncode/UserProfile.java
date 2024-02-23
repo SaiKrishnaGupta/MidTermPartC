@@ -38,7 +38,7 @@ public class UserProfile
     public String getUserName() {
         return userName;
     }
-
+    //Comments to test fetch+merge
     /**
      * @param userID the userID to set
      */
